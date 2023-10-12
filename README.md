@@ -24,3 +24,6 @@ Learn from basic about flow matching (collect resources)
 FP: ****Fokker-Planck Equation**** [zhihu](https://zhuanlan.zhihu.com/p/142216870)
 
 Flow Matching****构造更一般ODE**** [zhihu](https://zhuanlan.zhihu.com/p/636257608)
+
+Su Jianlin
+* [构建ODE的一般步骤（中）](https://spaces.ac.cn/archives/9379)
