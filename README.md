@@ -26,4 +26,5 @@ FP: ****Fokker-Planck Equation**** [zhihu](https://zhuanlan.zhihu.com/p/14221687
 Flow Matching****构造更一般ODE**** [zhihu](https://zhuanlan.zhihu.com/p/636257608)
 
 Su Jianlin
-* [构建ODE的一般步骤（中）](https://spaces.ac.cn/archives/9379)
+* [构建ODE的一般步骤（中）](https://spaces.ac.cn/archives/9379) mainly align with Flow Matching
+* [构建ODE的一般步骤（上）](https://spaces.ac.cn/archives/9370) pre-knowledge
