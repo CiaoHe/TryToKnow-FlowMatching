@@ -21,7 +21,9 @@ Learn from basic about flow matching (collect resources)
 
 # Related
 
-FP: ****Fokker-Planck Equation**** [zhihu](https://zhuanlan.zhihu.com/p/142216870)
+****Fokker-Planck Equation****
+* [zhihu](https://zhuanlan.zhihu.com/p/142216870)
+* [随机分析、Langevin 方程与 Fokker-Planck 方程](http://jiming.site/index.php/archives/44/) (recommend)
 
 Flow Matching****构造更一般ODE**** [zhihu](https://zhuanlan.zhihu.com/p/636257608)
 
